@@ -1,2 +1,0 @@
-admin pw 1
-user pw 2
